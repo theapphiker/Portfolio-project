@@ -1,4 +1,4 @@
-# bloom_fair_temp
+# Fair Weather Project
 Supporting data and materials used to analyze temperature differences during the Bloomsburg Fair.
 
 For a full-description of this project, please view "Fair Weather Presentation.pdf".
